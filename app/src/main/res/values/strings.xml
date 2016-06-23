@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="quiz_title">Android OS Quiz!</string>
+
+    <string name="question1">#1 Check the features that came with 6.0 Marshmallow</string>
+    <string name="question2">#2 Material Design was introduced in 5.0 Lollipop</string>
+    <string name="question3">#3 Android KitKat was 4.</string>
+    <string name="question4">#4 The name of the Tablet-friendly design feature was?</string>
+    <string name="question5">#5 The first name of the Android OS was?</string>
+
+    <string name="question1_feature1">Now on Tap home assistance</string>
+    <string name="question1_feature2">Quick permissions change</string>
+    <string name="question1_feature3">Extended battery optimizer</string>
+
+    <string name="question2_answer1">True</string>
+    <string name="question2_answer2">False</string>
+
+    <string name="question3_answer">4</string>
+
+    <string name="question4_hint"> hint: type as single word! </string>
+    <string name="question4_answer">honeycomb</string>
+
+    <string name="question5_answer">donut</string>
+
+    <string name="submit_answers">Submit</string>
+
+</resources>
