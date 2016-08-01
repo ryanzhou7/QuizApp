@@ -1,8 +1,6 @@
 # Quiz App
 <img src="https://raw.githubusercontent.com/ryanzhou7/QuizApp/master/media/demo1quiz.gif" width=240>
 
-Test your skills on the history of Android by answering quesions through check boxes, radio buttons, and text entries.
-
 As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 <img src="https://raw.githubusercontent.com/ryanzhou7/QuizApp/master/media/android_udacity_logo.png" width=100>
