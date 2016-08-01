@@ -1,5 +1,5 @@
 # Quiz App
-<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo1quiz.gif" width=240>
+<img src="https://raw.githubusercontent.com/ryanzhou7/QuizApp/master/media/demo1quiz.gif" width=240>
 
 Test your skills on the history of Android by answering quesions through check boxes, radio buttons, and text entries.
 
